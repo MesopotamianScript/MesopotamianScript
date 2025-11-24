@@ -17,14 +17,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MesopotamianScript&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues&custom_title=Code%20Matrix" width="54%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MesopotamianScript&show_icons=true&theme=tokyonight&hide_title=true&hide=prs,issues&custom_title=Code%20Matrix" width="100%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=MesopotamianScript&theme=tokyonight&hide_border=true" width="44%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MesopotamianScript&theme=onestar&no-frame=true&column=4&title=MultiLanguage,Repositories,Followers,Stars" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MesopotamianScript&theme=tokyo-night&area=true&custom_title=~%20LUMINESCENT%20ACTIVITY%20~" width="97%" />
 </p>
 
 ---
@@ -45,12 +39,6 @@
   <li><b>Languages:</b> JavaScript, TypeScript, Rust, Python</li>
   <li><b>DevOps & Tools:</b> Git, Docker</li>
 </ul>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=essai&height=90&section=header&text=🚀%20Showcase%20Projects%20🚀&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&fontColor=B16CE2" />
-</p>
 
 ---
 
