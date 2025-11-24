@@ -52,26 +52,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=essai&height=90&section=header&text=🚀%20Showcase%20Projects%20🚀&fontAlign=50&fontAlignY=60&fontSize=30&animation=fadeIn&fontColor=B16CE2" />
 </p>
 
-<div align="center">
-  <a href="https://github.com/MesopotamianScript/awesome-project-1" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,ts,mongodb,docker,vercel" height="32"/>
-    <b>Awesome Project 1</b> <br>
-    <sub>⚡ Next-gen web architecture and cloud-native deployment.</sub>
-  </a>
-  <br>
-  <a href="https://github.com/MesopotamianScript/blog" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vue,js,express,postgres" height="32"/>
-    <b>Blog Platform</b> <br>
-    <sub>📝 Minimalist, markdown-fueled, blazing fast blogging engine powered by Vercel.</sub>
-  </a>
-  <br>
-  <a href="https://github.com/MesopotamianScript/minigame" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react,ts" height="32"/>
-    <b>Mini Game</b> <br>
-    <sub>🎮 Tiny cyber arcade: rapid prototyping, pixel art, big fun for everyone!</sub>
-  </a>
-</div>
-
 ---
 
 <p align="center">
